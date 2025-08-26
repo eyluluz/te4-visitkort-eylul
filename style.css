@@ -34,11 +34,11 @@ text-decoration-color: rgb(32, 93, 88);
 }
 
 h2 {
-    margin: 20px 0px 60px 0px;
+    margin: 20px 170px 60px 0px;
 }
 
 h3 {
-    margin: 0px 0px 40px 0px;
+    margin: 0px 170px 40px 0px;
 }
 .left-box { 
     height: 500px;
@@ -54,10 +54,16 @@ h3 {
 
 }
 
-img {
+.pfp {
     margin: 50px 0px;
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 350px;
+}
+
+.qr {
+    margin: 150px 0px 0px 20px;
+    float: left;
+    width: 150px;
 }
